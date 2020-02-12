@@ -1,4 +1,4 @@
-# Midwestern-Interactive-Benchmark-Test
+# Midwestern Interactive Benchmark Test
 <h3>CONTACT</h3>
 <ul>
 <li>Folaranmi Adeyeri</li>

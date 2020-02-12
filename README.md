@@ -28,7 +28,7 @@ Folaranmi Adeyeri, <br>
 <hr>
 <h3>CODE TEST</h3>
 <p>This test gave me a refresher on my past experiences with HTML, CSS, and JavaScript. 
-The toughest part for me was using PHP because I didn’t have an experience in that area but had a little knowledge about it.
+The toughest part for me was using PHP because I had little to no experience in that area but had a little knowledge about it.
 Using PHP to create the “Contact Form” made me research a lot on PHP and after my research I can say that this test has improved 
 my knowledge greatly on PHP. Other than that, I was good with the rest of the codes because I did a lot of HTML, CSS and 
 JavaScript at my last place of work. It took me about 7 hours 47 minutes to complete this code test. 
